@@ -10,7 +10,7 @@
       Work with: http://download.eclipse.org/tools/pdt/updates/3.3
     </p>
   <li>Install <a href="http://www.graphviz.org"> Graphviz </a></li>
-  <li>Put <code>org.phpsemantics.debug.core</code> ,<code>org.phpsemantics.debug.ui</code> and <code>tools</code> into <em>dropins</em> folder under the Eclipse directory.</li>
+  <li>Put <code>org.phpsemantics.debug.core</code> ,<code>org.phpsemantics.debug.ui</code> and <code>tools</code> into <code>Eclipse/dropins</code> directory.</li>
 
 </ol>
 
