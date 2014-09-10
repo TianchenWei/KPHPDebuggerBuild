@@ -9,6 +9,7 @@
       From Eclipse menu: <strong>Help</strong> > <strong>Install New Software</strong>
       Work with: http://download.eclipse.org/tools/pdt/updates/3.3
     </p>
+  <li>Install Graphviz <a href="http://www.graphviz.org">PDT</li>
   <li>Put <code>org.phpsemantics.debug.core</code> ,<code>org.phpsemantics.debug.ui</code> and <code>tools</code> into <em>dropins</em> folder under the Eclipse directory.</li>
 
 </ol>
