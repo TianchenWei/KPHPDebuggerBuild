@@ -14,8 +14,16 @@
 
 </ol>
 
+
+<h2>Setup</h2>
+In the tools folder, there is a file called <code>makeGraph</code>.<br />
+Change <code>export PATH=$PATH</code> with <code>export PATH="$PATH:/path/of/dot"</code><br />
+You can get path of dot by:<code>whereis dot</code>
+
+
+
 <h2>TroubleShooting</h2>
-<h2>Check Tools</h2>
+<h3>Check Tools</h3>
 
  
 <ul>
@@ -43,12 +51,14 @@ Then you will output in xml annotation. If not, you need to re-kompile php.k<br 
 <strong>kompile php.k</strong>
 <code>cd k/bin</code><br />
 <code>./kompile ./../../kphp2/php.k</code><br />
-
-
 </p>
 
 
 
 <li>dot</li>
+<p>
+Under tools directory,
+<code>./makeGraph example.dot example.gif</code><br />
+</p>
 </ul>
 
