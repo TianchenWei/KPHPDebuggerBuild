@@ -35,7 +35,6 @@ This might take a few minutes. When it finishes, you get the <code>php-kompiled<
 <p>File -> New -> Other -> PHP project </p>
 <li>Open Debug Perspective</li>
 <li>Create new Debug Configuration</li>
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 <p>Doulbe click on <code>KPHP</code>, specify the script you want to debug</p>
 </ol>
 
