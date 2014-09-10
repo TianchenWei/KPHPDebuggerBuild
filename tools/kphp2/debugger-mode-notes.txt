@@ -1,0 +1,16 @@
+kphp 		run 		config		pgm
+
+kphp 		resume 	config
+
+
+
+
+
+
+RUN:
+
+ krun --parser="java -jar parser/parser.jar" -cMODE="runpgm" --config-var-parser="kast --parser ground" -cCFG init-config.xml test.php 
+ 
+RESUME:
+
+ krun -cPGM=".K" -cMODE="resume" --config-var-parser="kast --parser ground" -cCFG config.xml

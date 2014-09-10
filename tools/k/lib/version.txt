@@ -1,0 +1,3 @@
+K-framework nightly build.
+Git Revision: eb0a7cb
+Build date: Fri May 23 10:49:48 CDT 2014

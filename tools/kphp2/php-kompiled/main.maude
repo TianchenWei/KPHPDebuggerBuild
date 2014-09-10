@@ -1,0 +1,8 @@
+load "/homes/tw1613/Downloads/tools/k/lib/maude/lib/k-prelude"
+load "base.maude"
+load "builtins.maude"
+mod PHP is 
+  including PHP-BASE .
+  including PHP-BUILTINS .
+eq mainModule = 'PHP .
+endm
